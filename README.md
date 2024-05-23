@@ -29,4 +29,23 @@ Project : Ventiwi
 NPM : -
 Description : Landing Page membahas product ventilator
 
+----
+Basic Landing Page From Template Mo
+----
 
+Date : Thursday - 16/May/2024
+Name : Lindyarti Lanurli
+Project : Stealind
+NPM : -
+Description : Landing Page membahas tentang product kecantikan
+
+
+----
+Basic Landing Page From Template Your Company
+----
+
+Date : 23/Mei/2024
+Name : Aditya Hermawan
+Project : Patient Monitor
+NPM : -
+Description : Landing Page membahas tentang product patient monitor
