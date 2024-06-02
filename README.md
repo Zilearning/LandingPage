@@ -49,3 +49,14 @@ Name : Aditya Hermawan
 Project : Patient Monitor
 NPM : -
 Description : Landing Page membahas tentang product patient monitor
+
+
+----
+Basic Landing Page From Template Snapshot Studio
+----
+
+Date : 02/Juni/2024
+Name : Muhammad Firmanullah
+Project : Lab Instrument
+NPM : -
+Description : Landing page membahas tentang product instrumen lab
